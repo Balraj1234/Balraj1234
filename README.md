@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balraj singh
 - 👀 I’m interested in coding
-- 🌱 I’m currently Preparing for Software Engineer Job
+- 🌱 I’m currently Preparing for Software Engineering Job
 
 <!---
 Balraj1234/Balraj1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
